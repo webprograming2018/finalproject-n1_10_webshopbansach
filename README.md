@@ -5,6 +5,11 @@
 * Vũ Hoàng Hiệp - B15DCPT082
 * Nguyễn Tuấn Đức - B15DCPT046
 ## Server + IDE: Tomcat 9 + Netbeans 8.2
+## Admin account:
+```
+Username: admin
+Passwrod: 12345
+```
 ## Các chức năng chính
 * Thêm, sửa, xóa, xem sách
 * Thêm, sửa, xóa, khôi phục xem hóa đơn
