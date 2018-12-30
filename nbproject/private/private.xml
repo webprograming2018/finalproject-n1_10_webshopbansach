@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAOCategory.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/login.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/Model/Invoice.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/helper/Auth.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/checkout.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAOUser.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/admin/import/create.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/Model/Cart.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/user/delete.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/changeaddr.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/imports/create.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/imports/select.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/changepass.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAOBook.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/Model/User.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAOImport.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/Model/Import.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/invoice/delete.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAOInvoice.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/category/restore.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/user/restore.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/category/delete.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/imports/delete.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/address.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/imports/restore.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/Model/BookImport.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/admin/book/edit.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/DAO/DAODashboard.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/addToCart.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/admin/invoice.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/changepass.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/invoiceMail.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/web/admin/import.jsp</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/book/edit.java</file>
+            <file>file:/home/mito/NetBeansProjects/book/src/java/controller/book/create.java</file>
+        </group>
+    </open-files>
+</project-private>
